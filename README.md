@@ -8,3 +8,9 @@ I made this as beginner project in my IT class and is in no way meant to be used
 !!!WARNING!!! Be careful with the troll features, they can seriously mess up your computer. Try to only use in a VM or trash computer.
 
 Have a nice day!
+
+
+
+
+
+No, I'm probably not updating this
